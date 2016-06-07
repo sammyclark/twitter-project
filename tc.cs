@@ -10,6 +10,7 @@ namespace TwitterConsole
     {
         static void Main(string[] args)
         {
+            Wall SarahsWall;
             String stuff;
             Console.WriteLine("Type shit");
             stuff = Console.ReadLine();
