@@ -1,9 +1,14 @@
 ﻿using System;
-
-public class Wall
+namespace TwitterConsole
 {
-    public String UserMessages;
-	public Wall()
-	{
-	}
+    public class Wall
+    {
+        public String UserMessages;
+        public Wall()
+        {
+
+            UserMessages = "Words";
+
+        }
+    }
 }
